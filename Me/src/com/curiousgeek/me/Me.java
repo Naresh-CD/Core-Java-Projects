@@ -1,7 +1,7 @@
 package com.curiousgeek.me;
 
 public class Me {
-    public static void sayName(){
+    public static void sayName() {
         System.out.println("Geek");
     }
     public static void sayAge() {
