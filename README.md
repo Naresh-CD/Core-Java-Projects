@@ -1,2 +1,2 @@
 # Core-Java-Projects
-This repo contains core java projects.
+## This repo contains core java projects.
