@@ -2,7 +2,7 @@ package com.curiousgeek.nestedifelsestatement;
 
 import java.util.Scanner;
 
-public class NestedifElse {
+public class NestedIfElse {
     public static void main(String[] args) {
 
         int n = 10;
