@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BooleanDataType/BooleanDataType.iml" filepath="$PROJECT_DIR$/BooleanDataType/BooleanDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CharDataType/CharDataType.iml" filepath="$PROJECT_DIR$/CharDataType/CharDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConcatenatingStrings/ConcatenatingStrings.iml" filepath="$PROJECT_DIR$/ConcatenatingStrings/ConcatenatingStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstantVariable/ConstantVariable.iml" filepath="$PROJECT_DIR$/ConstantVariable/ConstantVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FavoriteNumber/FavoriteNumber.iml" filepath="$PROJECT_DIR$/FavoriteNumber/FavoriteNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElseCalculator/IfElseCalculator.iml" filepath="$PROJECT_DIR$/IfElseCalculator/IfElseCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfStatement/IfStatement.iml" filepath="$PROJECT_DIR$/IfStatement/IfStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfelseStatement/IfelseStatement.iml" filepath="$PROJECT_DIR$/IfelseStatement/IfelseStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerDataTypes/IntegerDataTypes.iml" filepath="$PROJECT_DIR$/IntegerDataTypes/IntegerDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuckyNumber/LuckyNumber.iml" filepath="$PROJECT_DIR$/LuckyNumber/LuckyNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Me/Me.iml" filepath="$PROJECT_DIR$/Me/Me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NameAndAge/NameAndAge.iml" filepath="$PROJECT_DIR$/NameAndAge/NameAndAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedIfelseStatement/NestedIfelseStatement.iml" filepath="$PROJECT_DIR$/NestedIfelseStatement/NestedIfelseStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScannerClass/ScannerClass.iml" filepath="$PROJECT_DIR$/ScannerClass/ScannerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringDataType/StringDataType.iml" filepath="$PROJECT_DIR$/StringDataType/StringDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" filepath="$PROJECT_DIR$/SwitchStatement/SwitchStatement.iml" />
+    </modules>
+  </component>
+</project>
