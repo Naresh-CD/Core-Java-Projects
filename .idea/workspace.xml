@@ -54,20 +54,7 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Application.DoWhileLoop">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.calculator.Calculator" />
-      <module name="Calculator" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.curiousgeek.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.dowhileloop.DoWhileLoop" />
       <module name="DoWhileLoop" />
@@ -107,6 +94,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.multiplicationtable.MultiplicationTable" />
+      <module name="MultiplicationTable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curiousgeek.multiplicationtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.whileloop.WhileLoop" />
       <module name="WhileLoop" />
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.LuckyNumber" />
         <item itemvalue="Application.IfElseCalculator" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,8 @@
       <workItem from="1633530307890" duration="8733000" />
       <workItem from="1633539712216" duration="5731000" />
       <workItem from="1633619783791" duration="4037000" />
-      <workItem from="1633707186658" duration="2089000" />
+      <workItem from="1633707186658" duration="3552000" />
+      <workItem from="1633892847553" duration="1357000" />
     </task>
     <servers />
   </component>

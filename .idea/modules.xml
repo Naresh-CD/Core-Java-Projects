@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/IntegerDataTypes/IntegerDataTypes.iml" filepath="$PROJECT_DIR$/IntegerDataTypes/IntegerDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/LuckyNumber/LuckyNumber.iml" filepath="$PROJECT_DIR$/LuckyNumber/LuckyNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Me/Me.iml" filepath="$PROJECT_DIR$/Me/Me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiplicationTable/MultiplicationTable.iml" filepath="$PROJECT_DIR$/MultiplicationTable/MultiplicationTable.iml" />
       <module fileurl="file://$PROJECT_DIR$/NameAndAge/NameAndAge.iml" filepath="$PROJECT_DIR$/NameAndAge/NameAndAge.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedIfelseStatement/NestedIfelseStatement.iml" filepath="$PROJECT_DIR$/NestedIfelseStatement/NestedIfelseStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScannerClass/ScannerClass.iml" filepath="$PROJECT_DIR$/ScannerClass/ScannerClass.iml" />
