@@ -52,9 +52,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11764705" />
     <property name="project.structure.side.proportion" value="0.13351136" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
+  <component name="RunManager" selected="Application.LoopsExerciseOne">
     <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.dowhileloop.DoWhileLoop" />
       <module name="DoWhileLoop" />
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.ifelsecalculator.IfElseCalculator" />
-      <module name="IfElseCalculator" />
+    <configuration name="LoopsExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexerciseone.LoopsExerciseOne" />
+      <module name="LoopsExerciseOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.ifelsecalculator.*" />
+          <option name="PATTERN" value="com.curiousgeek.loopsexerciseone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsExerciseOne" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.LuckyNumber" />
-        <item itemvalue="Application.IfElseCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,9 @@
       <workItem from="1633539712216" duration="5731000" />
       <workItem from="1633619783791" duration="4037000" />
       <workItem from="1633707186658" duration="3552000" />
-      <workItem from="1633892847553" duration="1357000" />
+      <workItem from="1633892847553" duration="2473000" />
+      <workItem from="1634013815702" duration="2087000" />
+      <workItem from="1634342929287" duration="6276000" />
     </task>
     <servers />
   </component>
