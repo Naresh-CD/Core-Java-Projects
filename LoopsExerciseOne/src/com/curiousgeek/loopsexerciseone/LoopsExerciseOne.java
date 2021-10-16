@@ -50,13 +50,12 @@ public class LoopsExerciseOne {
             i++;
         }
 
-        // Using while loop to decrease even numbers between 1 to 100
+        /*// Using while loop to decrease even numbers between 1 to 100
         int i = 100;
         while (i >= 1) {
             if (i % 2 == 0) {
                 System.out.print(i + " ");
             }
-            i--;
-        }
+            i--;*/
     }
 }
