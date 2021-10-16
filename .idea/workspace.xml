@@ -7,6 +7,7 @@
     <list default="true" id="5ee001f2-741f-48ce-898b-9159609b3165" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopsExerciseOne/src/com/curiousgeek/loopsexerciseone/LoopsExerciseOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/LoopsExerciseOne/src/com/curiousgeek/loopsexerciseone/LoopsExerciseOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.LoopsExerciseOne">
+  <component name="RunManager" selected="Application.LoopsExerciseTwo">
     <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.dowhileloop.DoWhileLoop" />
       <module name="DoWhileLoop" />
@@ -81,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LuckyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.luckynumber.LuckyNumber" />
-      <module name="LuckyNumber" />
+    <configuration name="LoopsExerciseTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisetwo.LoopsExerciseTwo" />
+      <module name="LoopsExerciseTwo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.luckynumber.*" />
+          <option name="PATTERN" value="com.curiousgeek.loopsexercisetwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsExerciseTwo" />
         <item itemvalue="Application.LoopsExerciseOne" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.LuckyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,8 @@
       <workItem from="1633707186658" duration="3552000" />
       <workItem from="1633892847553" duration="2473000" />
       <workItem from="1634013815702" duration="2087000" />
-      <workItem from="1634342929287" duration="6276000" />
+      <workItem from="1634342929287" duration="7619000" />
+      <workItem from="1634355283396" duration="4832000" />
     </task>
     <servers />
   </component>
