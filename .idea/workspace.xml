@@ -54,13 +54,13 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.LoopsExerciseThree">
-    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.dowhileloop.DoWhileLoop" />
-      <module name="DoWhileLoop" />
+  <component name="RunManager" selected="Application.LoopsExerciseFour">
+    <configuration name="LoopsExerciseFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefour.LoopsExerciseFour" />
+      <module name="LoopsExerciseFour" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.dowhileloop.*" />
+          <option name="PATTERN" value="com.curiousgeek.loopsexercisefour.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsExerciseFour" />
         <item itemvalue="Application.LoopsExerciseThree" />
         <item itemvalue="Application.LoopsExerciseTwo" />
         <item itemvalue="Application.LoopsExerciseOne" />
         <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.DoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,8 @@
       <workItem from="1633892847553" duration="2473000" />
       <workItem from="1634013815702" duration="2087000" />
       <workItem from="1634342929287" duration="7619000" />
-      <workItem from="1634355283396" duration="11439000" />
+      <workItem from="1634355283396" duration="12766000" />
+      <workItem from="1634609061100" duration="3024000" />
     </task>
     <servers />
   </component>
