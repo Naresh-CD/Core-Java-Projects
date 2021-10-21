@@ -54,7 +54,7 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.LoopsExerciseFive">
+  <component name="RunManager" selected="Application.LoopsExerciseSix">
     <configuration name="LoopsExerciseFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefive.LoopsExerciseFive" />
       <module name="LoopsExerciseFive" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexerciseone.LoopsExerciseOne" />
-      <module name="LoopsExerciseOne" />
+    <configuration name="LoopsExerciseSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisesix.LoopsExerciseSix" />
+      <module name="LoopsExerciseSix" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexerciseone.*" />
+          <option name="PATTERN" value="com.curiousgeek.loopsexercisesix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsExerciseSix" />
         <item itemvalue="Application.LoopsExerciseFive" />
         <item itemvalue="Application.LoopsExerciseFour" />
         <item itemvalue="Application.LoopsExerciseThree" />
         <item itemvalue="Application.LoopsExerciseTwo" />
-        <item itemvalue="Application.LoopsExerciseOne" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <workItem from="1634013815702" duration="2087000" />
       <workItem from="1634342929287" duration="7619000" />
       <workItem from="1634355283396" duration="12766000" />
-      <workItem from="1634609061100" duration="7911000" />
+      <workItem from="1634609061100" duration="11662000" />
     </task>
     <servers />
   </component>
