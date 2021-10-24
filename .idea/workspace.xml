@@ -54,7 +54,7 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.LoopsExerciseEight">
+  <component name="RunManager" selected="Application.LoopsExerciseNine">
     <configuration name="LoopsExerciseEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexerciseeight.LoopsExerciseEight" />
       <module name="LoopsExerciseEight" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsExerciseFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefour.LoopsExerciseFour" />
-      <module name="LoopsExerciseFour" />
+    <configuration name="LoopsExerciseNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisenine.LoopsExerciseNine" />
+      <module name="LoopsExerciseNine" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexercisefour.*" />
+          <option name="PATTERN" value="com.curiousgeek.loopsexercisenine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoopsExerciseNine" />
         <item itemvalue="Application.LoopsExerciseEight" />
         <item itemvalue="Application.LoopsExerciseSeven" />
         <item itemvalue="Application.LoopsExerciseSix" />
         <item itemvalue="Application.LoopsExerciseFive" />
-        <item itemvalue="Application.LoopsExerciseFour" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,7 @@
       <workItem from="1634355283396" duration="12766000" />
       <workItem from="1634609061100" duration="12925000" />
       <workItem from="1634839443709" duration="4097000" />
-      <workItem from="1635113198119" duration="1010000" />
+      <workItem from="1635113198119" duration="3239000" />
     </task>
     <servers />
   </component>
