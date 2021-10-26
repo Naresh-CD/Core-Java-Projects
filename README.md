@@ -1,2 +1,3 @@
 ## Core-Java-Projects
-This repo contains core java projects.
+This repository contains projects on Core Java.
+
