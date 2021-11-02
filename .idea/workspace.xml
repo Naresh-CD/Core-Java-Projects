@@ -55,39 +55,13 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.LoopsExerciseFourteen">
-    <configuration name="LoopsExerciseEleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexerciseeleven.LoopsExerciseEleven" />
-      <module name="LoopsExerciseEleven" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexerciseeleven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MethodsExerciseOne">
     <configuration name="LoopsExerciseFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefourteen.LoopsExerciseFourteen" />
       <module name="LoopsExerciseFourteen" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.curiousgeek.loopsexercisefourteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopsExerciseTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexerciseten.LoopsExerciseTen" />
-      <module name="LoopsExerciseTen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexerciseten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.methodexerciseone.MethodExerciseOne" />
+      <module name="MethodsExerciseOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curiousgeek.methodsexerciseone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodsExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.methodsexerciseone.MethodsExerciseOne" />
+      <module name="MethodsExerciseOne" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curiousgeek.methodsexerciseone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsExerciseOne" />
+        <item itemvalue="Application.MethodExerciseOne" />
         <item itemvalue="Application.LoopsExerciseFourteen" />
         <item itemvalue="Application.LoopsExerciseThirteen" />
         <item itemvalue="Application.LoopsExerciseTwelve" />
-        <item itemvalue="Application.LoopsExerciseEleven" />
-        <item itemvalue="Application.LoopsExerciseTen" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,8 @@
       <workItem from="1635205765172" duration="184000" />
       <workItem from="1635205966214" duration="5123000" />
       <workItem from="1635346025530" duration="1308000" />
-      <workItem from="1635390373695" duration="7362000" />
+      <workItem from="1635390373695" duration="9740000" />
+      <workItem from="1635819517907" duration="2118000" />
     </task>
     <servers />
   </component>
