@@ -55,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.MethodsExerciseOne">
+  <component name="RunManager" selected="Application.MethodsExerciseTwo">
     <configuration name="LoopsExerciseFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefourteen.LoopsExerciseFourteen" />
       <module name="LoopsExerciseFourteen" />
@@ -75,19 +75,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.curiousgeek.loopsexercisethirteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopsExerciseTwelve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisetwelve.LoopsExerciseTwelve" />
-      <module name="LoopsExerciseTwelve" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexercisetwelve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MethodsExerciseTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.methodsexercisetwo.MethodsExerciseTwo" />
+      <module name="MethodsExerciseTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.curiousgeek.methodsexercisetwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodsExerciseTwo" />
         <item itemvalue="Application.MethodsExerciseOne" />
         <item itemvalue="Application.MethodExerciseOne" />
         <item itemvalue="Application.LoopsExerciseFourteen" />
         <item itemvalue="Application.LoopsExerciseThirteen" />
-        <item itemvalue="Application.LoopsExerciseTwelve" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +170,8 @@
       <workItem from="1635205966214" duration="5123000" />
       <workItem from="1635346025530" duration="1308000" />
       <workItem from="1635390373695" duration="9740000" />
-      <workItem from="1635819517907" duration="2118000" />
+      <workItem from="1635819517907" duration="3401000" />
+      <workItem from="1636132493369" duration="2335000" />
     </task>
     <servers />
   </component>
