@@ -55,13 +55,13 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.MethodsExerciseTwo">
-    <configuration name="LoopsExerciseFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefourteen.LoopsExerciseFourteen" />
-      <module name="LoopsExerciseFourteen" />
+  <component name="RunManager" selected="Application.ArraysExerciseOne">
+    <configuration name="ArraysExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.arraysexerciseone.ArraysExerciseOne" />
+      <module name="ArraysExerciseOne" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexercisefourteen.*" />
+          <option name="PATTERN" value="com.curiousgeek.arraysexerciseone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsExerciseThirteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisethirteen.LoopsExerciseThirteen" />
-      <module name="LoopsExerciseThirteen" />
+    <configuration name="LoopsExerciseFourteen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.loopsexercisefourteen.LoopsExerciseFourteen" />
+      <module name="LoopsExerciseFourteen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.loopsexercisethirteen.*" />
+          <option name="PATTERN" value="com.curiousgeek.loopsexercisefourteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysExerciseOne" />
         <item itemvalue="Application.MethodsExerciseTwo" />
         <item itemvalue="Application.MethodsExerciseOne" />
         <item itemvalue="Application.MethodExerciseOne" />
         <item itemvalue="Application.LoopsExerciseFourteen" />
-        <item itemvalue="Application.LoopsExerciseThirteen" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +172,10 @@
       <workItem from="1635390373695" duration="9740000" />
       <workItem from="1635819517907" duration="3401000" />
       <workItem from="1636132493369" duration="2335000" />
+      <workItem from="1636243683516" duration="1145000" />
+      <workItem from="1636300495146" duration="282000" />
+      <workItem from="1636300907918" duration="617000" />
+      <workItem from="1636480633567" duration="4388000" />
     </task>
     <servers />
   </component>
