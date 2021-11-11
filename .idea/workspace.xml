@@ -55,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.13351136" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ArraysExerciseTwo">
+  <component name="RunManager" selected="Application.ArraysExerciseThree">
     <configuration name="ArraysExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.curiousgeek.arraysexerciseone.ArraysExerciseOne" />
       <module name="ArraysExerciseOne" />
@@ -69,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysExerciseTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.arraysexercisetwo.ArraysExerciseTwo" />
-      <module name="ArraysExerciseTwo" />
+    <configuration name="ArraysExerciseThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.arraysexercisethree.ArraysExerciseThree" />
+      <module name="ArraysExerciseThree" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.arraysexercisetwo.*" />
+          <option name="PATTERN" value="com.curiousgeek.arraysexercisethree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodExerciseOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.methodexerciseone.MethodExerciseOne" />
-      <module name="MethodsExerciseOne" />
+    <configuration name="ArraysExerciseTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.curiousgeek.arraysexercisetwo.ArraysExerciseTwo" />
+      <module name="ArraysExerciseTwo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.curiousgeek.methodsexerciseone.*" />
+          <option name="PATTERN" value="com.curiousgeek.arraysexercisetwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysExerciseThree" />
         <item itemvalue="Application.ArraysExerciseTwo" />
         <item itemvalue="Application.ArraysExerciseOne" />
         <item itemvalue="Application.MethodsExerciseTwo" />
         <item itemvalue="Application.MethodsExerciseOne" />
-        <item itemvalue="Application.MethodExerciseOne" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,8 @@
       <workItem from="1636300495146" duration="282000" />
       <workItem from="1636300907918" duration="617000" />
       <workItem from="1636480633567" duration="5305000" />
-      <workItem from="1636567765677" duration="2040000" />
+      <workItem from="1636567765677" duration="2948000" />
+      <workItem from="1636647703974" duration="2104000" />
     </task>
     <servers />
   </component>
