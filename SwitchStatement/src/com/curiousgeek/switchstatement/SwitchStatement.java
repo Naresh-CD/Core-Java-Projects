@@ -16,5 +16,32 @@ public class SwitchStatement {
             default:
                 System.out.println(n + " " + "is odd number");
         }
+
+/* -------------------------------------------------------------------------------------------- */
+
+        int i = 7;
+
+        switch (i) {
+
+            case 0:
+                System.out.println("i is 0");
+                break;
+            case 2:
+                System.out.println("i is 2");
+                break;
+            case 5:
+                System.out.println("i is 5");
+                break;
+            case 7:
+                System.out.println("i is 7");
+                break;
+            case 10:
+                System.out.println("i is 10");
+                break;
+            default:
+                System.out.println("Matching not found");
+
+        }
+
     }
 }
